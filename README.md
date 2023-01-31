@@ -1,6 +1,9 @@
 <h1 align="center">I'm Eno</h1>
 <h2 align="center">Red Team analyst with expertise in identifying critical impact vulnerabilities, focused on testing, developing tactics and techniques to strengthen external attack surfaces</h2>
 
+<!-- <img align="right" alt="coding" width="400" src="https://twitter.com/0x3n0"> -->
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0x3n0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x3n0" height="30" width="40" /></a>
